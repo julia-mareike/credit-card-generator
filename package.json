@@ -1,0 +1,20 @@
+{
+  "name": "credit-card-generator",
+  "version": "1.0.0",
+  "description": "generate fake nz credit cards",
+  "main": "generate-credit-card.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "author": "julia",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^6.5.1",
+    "faker": "^4.1.0",
+    "jest": "^24.9.0"
+  },
+  "devDependencies": {
+    "eslint-plugin-jest": "^22.17.0"
+  }
+}
