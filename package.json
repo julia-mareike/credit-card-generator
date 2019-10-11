@@ -1,6 +1,6 @@
 {
-  "name": "credit-card-generator",
-  "version": "1.0.0",
+  "name": "@julia-mareike/credit-card-generator",
+  "version": "1.0.2",
   "description": "generate fake nz credit cards",
   "main": "generate-credit-card.js",
   "scripts": {
@@ -9,6 +9,10 @@
   },
   "author": "julia",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:julia-mareike/credit-card-generator.git"
+  },
   "dependencies": {
     "eslint": "^6.5.1",
     "faker": "^4.1.0",
