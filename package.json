@@ -1,6 +1,6 @@
 {
   "name": "@julia-mareike/credit-card-generator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "generate fake nz credit cards",
   "main": "generate-credit-card.js",
   "scripts": {
